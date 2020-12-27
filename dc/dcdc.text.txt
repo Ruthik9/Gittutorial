@@ -1,3 +1,0 @@
-static web site 
-another new line added to this file
-another
